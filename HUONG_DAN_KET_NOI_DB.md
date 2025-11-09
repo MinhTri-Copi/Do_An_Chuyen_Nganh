@@ -5,7 +5,7 @@
 Tạo file `.env` trong thư mục gốc:
 
 ```env
-PORT=8081
+PORT=8080
 DB_HOST=localhost
 DB_USER=root
 DB_PASSWORD=
@@ -34,7 +34,7 @@ npm start
 Nếu kết nối thành công, bạn sẽ thấy:
 ```
 ✅ Kết nối database MySQL thành công!
->>> Project is running on port: 8081
+>>> Project is running on port: 8080
 ```
 
 ## Sử dụng kết nối database trong code
