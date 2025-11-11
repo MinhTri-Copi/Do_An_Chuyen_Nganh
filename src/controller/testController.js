@@ -1,6 +1,6 @@
-
 const helloWorld = (req, res) => {
-    res.send('Hello, World!');
+    // Render trang chủ với view engine EJS
+    res.render('home');
 };
 
 module.exports = {
